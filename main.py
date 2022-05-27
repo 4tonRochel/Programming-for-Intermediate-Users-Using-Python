@@ -1,5 +1,2 @@
-from functionfile import personal_greeting
-from functionfile import your_province
+help("sched")
 
-personal_greeting("Anna")
-your_province("Pampanga")
